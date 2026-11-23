@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Robotics-Frameworks-Embedded-Control/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Robotics-Frameworks-Embedded-Control?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Robotics-Frameworks-Embedded-Control/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Robotics-Frameworks-Embedded-Control?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Robotics-Frameworks-Embedded-Control/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Robotics-Frameworks-Embedded-Control?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Robotics-Frameworks-Embedded-Control/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Robotics-Frameworks-Embedded-Control?style=flat-square&color=red" alt="Open Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Robotics-Frameworks-Embedded-Control/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
@@ -127,7 +127,7 @@ Sorted in descending order by GitHub stargazer count:
 ## 🤝 How to Contribute
 
 1. Fork this repository.
-2. Add or update tool listings in `README.md` following the established table and star badge formats.
+2. Add or update tool listings in `README.md` following the established table and Stars_Badge formats.
 3. Keep product descriptions objective, verified, and linked to official documentation or source code.
 4. Submit a Pull Request describing your changes.
 
